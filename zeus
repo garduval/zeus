@@ -5,27 +5,27 @@
 "groups": [
 {
 "name": "Movistar lista 1",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "https://raw.githubusercontent.com/garduval/zeus/refs/heads/main/zeus"
 },
 {
 "name": "Movistar lista 2",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "https://raw.githubusercontent.com/garduval/bego/refs/heads/main/soni"
 }, 
 {
 "name": "Movistar lista 3",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "El enlace de la lista, el pastebin"
 },
 {
 "name": "Movistar lista 4",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "El enlace de la lista, el pastebin"
 }, 
 {
 "name": "Movistar lista 5",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "El enlace de la lista, el pastebin"
  }, 
 {
@@ -35,32 +35,32 @@
 }, 
 {
 "name": "Movistar lista 7",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "El enlace de la lista, el pastebin"
  },
 {
 "name": "Movistar lista 8",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "El enlace de la lista, el pastebin"
  },
 {
 "name": "Movistar lista 9",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "El enlace de la lista, el pastebin"
 },
 {
 "name": "Movistar lista 10",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "El enlace de la lista, el pastebin"
  },
 {
 "name": "Movistar lista 11",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "El enlace de la lista, el pastebin"
 },
 {
 "name": "Movistar lista 12",
-"image": "url de la imagen que quieras",
+"image": "https://i.ibb.co/v6nYVkGd/Zeus.jpg",
 "url": "El enlace de la lista, el pastebin"
    },
  ]
