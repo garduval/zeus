@@ -35,21 +35,7 @@
 "url": "https://raw.githubusercontent.com/garduval/nico/refs/heads/main/nico"
    },
     {
-"name": "Deport-Mix / Calvo-Sport",
-"image": "https://i.ibb.co/8nfL3qFB/5985633640123582303.jpg",
-"url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Calvo-Sport.w3u"
- },
-{
-"name": "DAZN/Motor/Being",
-"image": "https://i.ibb.co/DP3W9CKp/5985633640123582304.jpg",
-"url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Being.w3u"
- },
-{
-"name": "Fútbol de Españoles",
-"image": "https://i.ibb.co/nsxsv8YM/5985633640123582301.jpg",
-"url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAtbol%20de%20Espa%C3%B1oles.w3u"
-},
-{
+
 "name": "Directes-tv-es.3",
 "image": "https://i.ibb.co/VpzXRMzW/1400936791496-670x378.webp",
 "url": "https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8?maxres=720"
