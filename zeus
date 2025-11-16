@@ -50,7 +50,9 @@
 "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAtbol%20de%20Espa%C3%B1oles.w3u"
 },
 {
-https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Calvo-Sport.w3u#:~:text=%22name%22%3A%20%22Esport,720%22%2C%20%22userAgent%22%3A%20%22%22%20%7D%2C%20%7B
-}
-]
+"name": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Calvo-Sport.w3u#:~:text=Esport%203",
+"image": "url de la imagen que quieras",
+"url": "https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8?maxres=720",
+   },
+ ]
 }
