@@ -53,6 +53,11 @@
 "name": "Disney + Eventos",
 "image": "https://e-ce.americatv.com.pe/9-24-592x340-503196.jpg",
 "url": "https://raw.githubusercontent.com/chukyvaliente/Disney-Eventos/refs/heads/main/Disney%20%2B%20Eventos" 
+},
+{
+"name": "Vpn",
+"image":https://i.ibb.co/GjG8NY0/vpn.png",
+"url":https://raw.githubusercontent.com/garduval/vpn/refs/heads/main/vpn"
  }
  ]
 }
