@@ -35,14 +35,14 @@
 "url": "https://raw.githubusercontent.com/garduval/nico/refs/heads/main/nico"
    },
     {
-"name": "ChukyHood",
-"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-"url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport"
-},
-{
 "name": "Movistar lista 12",
 "image": "url de la imagen que quieras",
 "url": "https://raw.githubusercontent.com/garduval/Marcos/refs/heads/main/Marcos"
+},
+{
+"name": "ChukyHood",
+"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+"url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport"
    },
  ]
 }
