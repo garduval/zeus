@@ -20,14 +20,14 @@
 "url": "https://raw.githubusercontent.com/garduval/iptv/refs/heads/main/iptv"
 },
 {
-"name": "Marcos",
-"image": "https://i.ibb.co/dsR7yYQf/marcos.jpg",
-"url": "https://raw.githubusercontent.com/garduval/Marcos/refs/heads/main/Marcos"
-}, 
-{
 "name": "M3U",
 "image": "https://i.ibb.co/JFn86CzG/w3u.png",
 "url": "https://raw.githubusercontent.com/garduval/m3u/refs/heads/main/m3u"
+}, 
+{
+"name": "Marcos",
+"image": "https://i.ibb.co/dsR7yYQf/marcos.jpg",
+"url": "https://raw.githubusercontent.com/garduval/Marcos/refs/heads/main/Marcos"
 }, 
 {
 "name": "Nico",
