@@ -10,19 +10,19 @@
 "url": "https://raw.githubusercontent.com/garduval/zeus/refs/heads/main/zeus"
 },
 {
-"name": "Soni",
-"image": "https://i.ibb.co/QqwwzFv/Soni.jpg",
-"url": "https://raw.githubusercontent.com/garduval/soni/refs/heads/main/soni"
+"name": "ChukyHood",
+"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+"url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport"
 }, 
-{
-"name": "Yassin",
-"image": "https://i.ibb.co/wNDF8QBn/Yassin.gif",
-"url": "https://raw.githubusercontent.com/garduval/yassin/refs/heads/main/yassin"
-},
 {
 "name": "Iptv",
 "image": "https://i.ibb.co/RTnJ9B0h/iptv.jpg",
 "url": "https://raw.githubusercontent.com/garduval/iptv/refs/heads/main/iptv"
+},
+{
+"name": "Marcos",
+"image": "https://i.ibb.co/dsR7yYQf/marcos.jpg",
+"url": "https://raw.githubusercontent.com/garduval/Marcos/refs/heads/main/Marcos"
 }, 
 {
 "name": "M3U",
@@ -35,14 +35,14 @@
 "url": "https://raw.githubusercontent.com/garduval/nico/refs/heads/main/nico"
    },
     {
-"name": "Marcos",
-"image": "https://i.ibb.co/dsR7yYQf/marcos.jpg",
-"url": "https://raw.githubusercontent.com/garduval/Marcos/refs/heads/main/Marcos"
+"name": "Soni",
+"image": "https://i.ibb.co/QqwwzFv/Soni.jpg",
+"url": "https://raw.githubusercontent.com/garduval/soni/refs/heads/main/soni"
 },
 {
-"name": "ChukyHood",
-"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-"url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport"
+"name": "Yassin",
+"image": "https://i.ibb.co/wNDF8QBn/Yassin.gif",
+"url": "https://raw.githubusercontent.com/garduval/yassin/refs/heads/main/yassin"
    },
  ]
 }
